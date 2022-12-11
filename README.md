@@ -1,4 +1,4 @@
-<h2><p align="center">DMDD Lecture - December 2nd (Friday)</p></h2>
+<h2><p align="center">DMDD Lecture</p></h2>
 
 
 1) A Database Transaction is a set of SQL statements that are executed in a sequence. A DB 
